@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/utkanarikan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="utkanarikan height="30" width="30" /></a>
-<a href="https://reddit.com/utkanarikan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="utkanarikan height="30" width="30" /></a>  
+<a href="https://instagram.com/utkanarikan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="30" /></a>
+<a href="https://reddit.com/utkanarikan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" 30" width="30" /></a>  
 <a href="https://discord.com/users/1010445752960553010" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="utkanarikan1491" height="30" width="40" /></a>
 </p>
 
