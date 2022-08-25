@@ -16,4 +16,4 @@
 <h3 align="left">GitStats;</h3>
 <p align="left">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkanarikan&show_icons=true&theme=dark&hide_border=true&locale=en" alt="utkanarikan"/<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xr4zz3rs&theme=dark" alt="utkanarikan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkanarikan&show_icons=true&theme=dark&hide_border=true&locale=en" alt="utkanarikan"/ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xr4zz3rs&theme=dark" alt="utkanarikan" /></p>
